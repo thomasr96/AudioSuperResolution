@@ -1,0 +1,5 @@
+librosa
+pydub
+numpy
+scipy
+tensorflow
