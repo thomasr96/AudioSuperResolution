@@ -1,4 +1,4 @@
-# AudioSuperResultion
+# AudioSuperResolution
 
 This repository holds code to train, test, and run audio super resolution deep learning models. I trained autoencoder and GAN style models, first taking ideas from literature and then by building on top of them. The main part of the project was for speech audio, where the VCTK Speech Dataset was used. The FMA music dataset was then also used for separate training, although their performance did not compare even close to the VCTK based models for their respective task.
 
